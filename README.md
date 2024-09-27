@@ -38,4 +38,4 @@ Le dépôt créé pour ce projet se nomme : **lvcampus-env-3**.
 1. **Cloner le dépôt** :  
    ```bash
    git clone https://github.com/Lvscls/lvcampus-env-3.git
-   cd lvcampus-env-N°GROUPE
+   cd lvcampus-env-3
